@@ -8,11 +8,12 @@ free to check this Udacity free course [Link](https://www.udacity.com/course/dee
 I have added comments to the code blocks and markdown cells which explain each
 step in the notebooks and they cover:
 - Applying preprocessing steps to the data.
-- Building deep learning RNNs and LSTM cells models using the `nn module`.
+- Building deep learning RNNs and LSTM cells models using the **`nn module`**.
 - Evaluating the model performance during and after training.
-- Saving `PyTorch` models locally and reloading them.
+- Saving **`PyTorch`** models locally and reloading them.
 - Early stopping the training process.
+- Comparing between **`Vanilla FeedForward networks`**, **`CNNs`** and **`RNNs`**. 
 
-**Note:** I am using `Plotly` to generate interactive graphs for some of the notebooks
-which are not rendered over `GitHub`. So, feel free to download the HTML file which
+**Note:** I am using **`Plotly`** to generate interactive graphs for some of the notebooks
+which are not rendered over **`GitHub`**. So, feel free to download the HTML file which
 has the code in the notebook with the graphs rendered.
